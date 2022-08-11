@@ -1,6 +1,7 @@
 ## My own thoughts
 
 I am Peyman Pahlevanzadeh. 
+I'm a first-year M.Sc student in Communications Engineering interested in the study of quantum computing and information and its applications such as simulation of physical systems, and Quantum Chemistry and Quantum Machine learning using different frameworks such as Qiskit, Mindquantum, and PennyLane. I have experience with basic algorithms of quantum computing and simulation of physical systems such as variational quantum algorithms. In particular, I applied VQE to determine the groundstate energy of d-level systems by mapping them into 2-level systems (qubits).  
 
 
 ## Welcome to GitHub Pages
