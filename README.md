@@ -1,2 +1,2 @@
 # My own thoughts 
-Hello world
+My own thoughts about everything
